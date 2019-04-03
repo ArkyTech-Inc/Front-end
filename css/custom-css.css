@@ -1,6 +1,6 @@
 .nav {
     text-transform: initial!important;
-    border: 1.5px dashed cyan;
+    border: 1.5px dashed #00D0F8;
     padding-top: 10px!important;
     padding-right: 3px!important;
     padding-bottom: 8px!important;
@@ -17,7 +17,11 @@
 }
 
 .custom-button:hover {
-    color: cyan!important;
+    color: #00D0F8!important;
+}
+
+.custom-button:focus {
+    color: #00D0F8!important;
 }
 
 .massive-font{  
@@ -40,6 +44,3 @@
     background-color: #59D3C8!important;
 }
 
-.flaticon-donation-1{
-    color: cyan;
-}
