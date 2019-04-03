@@ -47,3 +47,7 @@
 .standard-height{
     height: 400px;
 }
+
+#learn div{
+    margin-bottom: 20px;
+}
